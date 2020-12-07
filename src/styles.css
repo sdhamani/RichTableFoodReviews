@@ -1,0 +1,12 @@
+.App {
+  /* font-family: "Nerko One", cursive; */
+  font-family: "Texturina", serif;
+  text-align: center;
+}
+
+body {
+  font-family: "Texturina", serif;
+  /* font-family: "East Sea Dokdo", cursive; */
+  color: rgb(170, 166, 166);
+  background-color: black;
+}
